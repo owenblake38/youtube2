@@ -3,7 +3,7 @@ Convert YouTube videos into .mp4 and .mp3
 
 Roungseo (Peter) Youn
 
-The begins with a given YouTube video url, downloads the video, rips the audio from the video, then crawls to a new video for given number of times.
+The script begins with a given YouTube video url, downloads the video, rips the audio from the video, then crawls to a new video for given number of times.
 
 The script ensures non-duplicates by calculating similarity in the titles via Jaccard coefficient.
 
